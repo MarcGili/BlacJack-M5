@@ -1,0 +1,3 @@
+﻿  JuegoCartas_M5.cpp
+D:\Nueva carpeta\OneDrive - Centre d'Estudis Monlau\1 DAW\M5\JuegoCartas_M5\JuegoCartas_M5\JuegoCartas_M5.cpp(10,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  JuegoCartas_M5.vcxproj -> D:\Nueva carpeta\OneDrive - Centre d'Estudis Monlau\1 DAW\M5\JuegoCartas_M5\x64\Debug\JuegoCartas_M5.exe
